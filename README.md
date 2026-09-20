@@ -4,7 +4,7 @@
 
 ## Related Projects
 
-- [awesome-muse-bot](https://github.com/Anil-matcha/awesome-muse-bot) — copy-paste Muse agent briefs for connected-app workflows and approval-aware automation.
+- [awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) — copy-paste Muse agent briefs for connected-app workflows and approval-aware automation.
 - [open-grok-bot](https://github.com/Anil-matcha/open-grok-bot) — local-first bot-persona workspace with approvals, connectors, and audit trails.
 - [awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) — typed decision workflows for routing, verification, and safety gates.
 
