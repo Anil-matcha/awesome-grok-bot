@@ -2,6 +2,12 @@
 
 > A curated list of ready-to-use Grok bot templates — full prompts, integrations, and original creators — spanning productivity, sales, marketing, ops, success, and personal workflows. Copy a prompt, drop it into Grok, and adapt it to your own accounts, channels, and tools.
 
+## Related Projects
+
+- [awesome-muse-bot](https://github.com/Anil-matcha/awesome-muse-bot) — copy-paste Muse agent briefs for connected-app workflows and approval-aware automation.
+- [open-grok-bot](https://github.com/Anil-matcha/open-grok-bot) — local-first bot-persona workspace with approvals, connectors, and audit trails.
+- [awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) — typed decision workflows for routing, verification, and safety gates.
+
 ## Contents
 
 - [Productivity](#productivity) (40)
