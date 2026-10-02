@@ -15,7 +15,7 @@
 - [Marketing](#marketing) (38)
 - [Ops](#ops) (28)
 - [Success](#success) (12)
-- [Personal](#personal) (38)
+- [Personal](#personal) (39)
 
 ## Productivity
 
@@ -919,6 +919,13 @@ Default every new item to an unscheduled draft. Show me the final copy, target a
 **Integrations:** Slack · **Creator:** [@ericzakariasson](https://x.com/ericzakariasson)
 
 > Set up a new bot for me that watches for campsite openings. Walk me through connecting Slack, then configure it: check recreation.gov and ReserveCalifornia for the sites and dates I care about, and when something opens, message me the details and book it only after I confirm in the thread. Ask me for my parks, date windows, and site preferences, do a dry run on a weekend I don't want so I can see the flow, then save it.
+
+
+### Career
+
+**Integrations:** browser · **Creator:** [@Agatho](https://x.com/Agatho)
+
+> Set up a new bot for me called Career that I can use for an honest job hunt. Configure it to (1) find live openings that match a real profile I provide, (2) help tailor resume and cover materials to each posting using only facts I confirm, (3) submit applications only through official employer ATS or apply pages I approve, and (4) keep an evidence-backed apply log of what was sent and why. It must never invent skills, titles, dates, or qualifications. Ask me about target roles, locations, constraints, and which sites or ATS it may open; run a supervised first shortlist with me reviewing every draft before any submit; then save it for on-demand use. Live public template: https://x.ai/bot/_N179jA-vyUT8mlNn2xOs
 
 ### Charge Disputer
 
