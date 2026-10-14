@@ -1139,6 +1139,10 @@ Each run should send one concise digest. If nothing matters, say nothing. Never 
 > Set up a new bot for me I can trigger as a personal assistant for YouTube scripts and McDonald's orders, in its own dedicated chat. Walk me through connecting YouTube and McDonald's, then configure it: for each video, ask for the topic, audience, format, target length, tone, call to action, and channel style, write a structured script with an opening hook and scene or speaking notes, and when I ask for McDonald's, use my saved location and preferences to assemble the order and show the items, prices, fees, and total. Ask me about my usual order, dietary restrictions, budget, delivery or pickup preference, and script conventions, do a supervised first script and dry-run order, and hold every order for my explicit approval before submitting or paying; then save it.
 
 
+## Directories
+
+- [Grok Bot Use Cases](https://grokbotusecases.com) - Directory of 90+ installable Grok Bot templates, ranked and updated daily, with category pages.
+
 ## Contributing
 
 Pull requests welcome! Add new bot templates using the same format — a `### Name` heading, an **Integrations**/**Creator** meta line, and the full prompt as a blockquote — placed under the correct category, alphabetically sorted.
