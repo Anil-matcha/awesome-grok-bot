@@ -12,7 +12,7 @@
 
 - [Productivity](#productivity) (40)
 - [Sales](#sales) (26)
-- [Marketing](#marketing) (38)
+- [Marketing](#marketing) (39)
 - [Ops](#ops) (28)
 - [Success](#success) (12)
 - [Personal](#personal) (38)
@@ -456,6 +456,12 @@
 **Integrations:** X · **Creator:** [@kevinace](https://x.com/kevinace)
 
 > Set up a new bot for me that runs daily. Walk me through connecting X, then configure it: look at what's resonating on my timeline and in my own posts, cross it with the topics I actually care about, and send me a short list of potential longer posts I could write today — just enough to take the friction out of deciding what to write. It drafts nothing and publishes nothing. Ask me for my themes and background so the ideas fit me, send one briefing so I can judge the signal, then save it.
+
+### Brand Voice Writer
+
+**Integrations:** Ellora · **Creator:** [@istupidpreneur](https://x.com/istupidpreneur)
+
+> Set up a new bot for me that writes in my voice. Walk me through connecting Ellora, then have it build my voice profile from writing I've already published. From then on, every draft it writes for me goes through an Ellora review before I see it: it fixes what the review flags and sends the draft back for another pass. Nothing gets posted or sent without me. Ask me for a few pieces of my past writing, draft one piece with me watching, then save it.
 
 ### Competitor Pricing Watch
 
