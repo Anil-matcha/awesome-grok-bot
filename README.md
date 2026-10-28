@@ -15,7 +15,7 @@
 - [Marketing](#marketing) (38)
 - [Ops](#ops) (28)
 - [Success](#success) (12)
-- [Personal](#personal) (38)
+- [Personal](#personal) (39)
 
 ## Productivity
 
@@ -907,6 +907,12 @@ Default every new item to an unscheduled draft. Show me the final copy, target a
 **Integrations:** Slack · **Creator:** [@ericzakariasson](https://x.com/ericzakariasson)
 
 > Set up a new bot for me that watches appointment calendars. Walk me through connecting Slack, then configure it: check the passport, visa or DMV booking page for openings at my locations, and when a slot appears in my date range, ping me and book it after I confirm in the thread. Ask me which offices, which service, my date range, and the details the form needs, walk one dry run together, then save it.
+
+### Avatar Ninja
+
+**Integrations:** Grok Bot · ten.thousand.ninja · **Creator:** [Human](https://x.ai/bot/mZxZWk7OJWfiP1U3R062r)
+
+> Add the public template https://x.ai/bot/mZxZWk7OJWfiP1U3R062r (or open https://ten.thousand.ninja). Connect the free MCP at https://ten.thousand.ninja/mcp if prompted, then ask for a parametric Grok Bot–style avatar — shape, eyes, colour, finish, light, backdrop — and export a PNG to upload under Set avatar. Free fan tool; not affiliated with xAI, SpaceXAI, or Cursor. Do not auto-set the avatar; hand the PNG to the owner.
 
 ### Biblical Accuracy Study Bot
 
